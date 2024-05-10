@@ -1,3 +1,5 @@
+![Header Image](templates/Heliotrope.png)
+
 # Django ChatGPT Integration
 
 Django ChatGPT Integration is a web application that combines the power of Django, a robust web framework, with ChatGPT, an AI language model developed by OpenAI. This application allows users to interact with an AI-powered chatbot through a user-friendly chat interface.
